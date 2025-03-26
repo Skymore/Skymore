@@ -1,28 +1,113 @@
-<!-- GitHub README.md中的HTML代码 -->
+<!-- GitHub个人资料 - 优雅简约风格 -->
+
 <div align="center">
   <h1>Hi, I'm Rui 👋</h1>
   <p><i>Full-Stack · Game Dev · AI Systems | MS @ UW ECE</i><br>
   <small>Always building. Sometimes writing. Occasionally sleeping.</small></p>
   
-  <a href="https://ruit.me" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://ruit.me">
+    <img src="https://img.shields.io/badge/Portfolio-ruit.me-black?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="mailto:realruitao@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-realruitao@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ruit" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/ruit">
+    <img src="https://img.shields.io/badge/LinkedIn-ruit-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
 
 <div align="center">
   <h2>🧠 Currently Exploring</h2>
-  <p>
-    <img src="https://img.shields.io/badge/-LLM_Voice_Agents-20232A?style=flat-square&logoColor=white" alt="LLM Voice Agents" />
-    <img src="https://img.shields.io/badge/-Vibe_Coding-20232A?style=flat-square&logoColor=white" alt="Vibe Coding" />
-    <img src="https://img.shields.io/badge/-AI_for_Games-20232A?style=flat-square&logoColor=white" alt="AI for Games" />
-  </p>
+  <img src="https://img.shields.io/badge/LLM_Voice_Agents-20232A?style=flat-square" alt="LLM Voice Agents" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-20232A?style=flat-square" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/AI_for_Games-20232A?style=flat-square" alt="AI for Games" />
 </div>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/ruit.me" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%F0%9F%8C%90-ruit.me-black?style=flat-square" alt="ruit.me" />
+        </h3>
+        <p align="center">My personal blog built with Next.js 14, Tailwind CSS, and Vercel. Sharing tech insights, project notes, and developer life stories.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+        </p>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/voice-memo-ai" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F-voice--memo--ai-black?style=flat-square" alt="voice-memo-ai" />
+        </h3>
+        <p align="center">End-to-end AI-powered system for transcribing and summarizing audio using Azure Speech and GPT-4o. Ideal for medical, legal, and business voice notes.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+        </p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/roomtalk" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%F0%9F%92%AC-roomtalk-black?style=flat-square" alt="roomtalk" />
+        </h3>
+        <p align="center">Real-time chat system built with WebSocket, Redis, and Socket.io. Supports room creation, message persistence, and multi-language UI.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket" />
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        </p>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/treating-calendar" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%F0%9F%93%85-treating--calendar-black?style=flat-square" alt="treating-calendar" />
+        </h3>
+        <p align="center">Smart weekly treating calendar with fair scheduling, Supabase auth, and email notifications. Designed for small teams to rotate responsibilities.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        </p>
+      </a>
+    </td>
+  </tr>
+<tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/Taobao-like-Product-Category-Page" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%F0%9F%9B%92-Taobao--like--Page-black?style=flat-square" alt="Taobao-like-Product-Category-Page" />
+        </h3>
+        <p align="center">A product category page application developed using ReactJS and Express.js. This project delivers an interactive product browsing interface.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        </p>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Skymore/CPP-Based-Asynchronous-Processing-Framework" style="text-decoration:none;">
+        <h3 align="center">
+          <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-CPP_Framework-black?style=flat-square" alt="CPP Framework" />
+        </h3>
+        <p align="center">A C++ event-driven manager for concurrent task processing, finite state machines, HTTP communication and distributed message handling.</p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+        </p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">⚡ Tech I Use & Love</h2>
 
@@ -97,48 +182,20 @@
   </tr>
 </table>
 
-<!-- GitHub 活动统计区域 - 使用动态数据 -->
 <h2 align="center">📊 GitHub Activity</h2>
 
 <div align="center">
-  <!-- GitHub 统计数据 -->
   <a href="https://github.com/Skymore">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skymore&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skymore&layout=compact&langs_count=8&theme=github_dark&hide_border=true&exclude_repo=Win25_LLM,Track2COCO" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skymore&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
+  </a>
+  <a href="https://github.com/Skymore">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skymore&layout=compact&langs_count=8&theme=nord&hide_border=true&exclude_repo=Win25_LLM,Track2COCO" />
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- 贡献图表 -->
-  <a href="https://github.com/Skymore">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skymore&theme=github-dark-blue&hide_border=true" alt="Skymore's GitHub streak" />
-  </a>
-</div>
 
-<!-- 活动图表 -->
-<div align="center" style="margin-top: 20px;">
-  <a href="https://github.com/Skymore">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Skymore&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  </a>
-</div>
-
-<!-- 项目展示区 - 使用动态卡片 -->
-<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skymore&repo=your-best-repo-1&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skymore&repo=your-best-repo-2&theme=github_dark&hide_border=true" />
-  </a>
-</div>
-
-<!-- 贡献蛇形图 - 很酷的动态效果 -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skymore/Skymore/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skymore/Skymore/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Skymore/Skymore/output/github-contribution-grid-snake.svg">
-  </picture>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Skymore&style=flat-square&color=blue" alt="Profile views" />
 </div>
