@@ -28,83 +28,84 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/ruit.me" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/ruit.me">
           <img src="https://img.shields.io/badge/%F0%9F%8C%90-ruit.me-black?style=flat-square" alt="ruit.me" />
-        </h3>
-        <p align="center">My personal blog built with Next.js 14, Tailwind CSS, and Vercel. Sharing tech insights, project notes, and developer life stories.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-          <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">My personal blog built with Next.js 14, Tailwind CSS, and Vercel. Sharing tech insights, project notes, and developer life stories.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/voice-memo-ai" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/voice-memo-ai">
           <img src="https://img.shields.io/badge/%F0%9F%8E%99%EF%B8%8F-voice--memo--ai-black?style=flat-square" alt="voice-memo-ai" />
-        </h3>
-        <p align="center">End-to-end AI-powered system for transcribing and summarizing audio using Azure Speech and GPT-4o. Ideal for medical, legal, and business voice notes.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">End-to-end AI-powered system for transcribing and summarizing audio using Azure Speech and GPT-4o. Ideal for medical, legal, and business voice notes.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/roomtalk" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/roomtalk">
           <img src="https://img.shields.io/badge/%F0%9F%92%AC-roomtalk-black?style=flat-square" alt="roomtalk" />
-        </h3>
-        <p align="center">Real-time chat system built with WebSocket, Redis, and Socket.io. Supports room creation, message persistence, and multi-language UI.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket" />
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">Real-time chat system built with WebSocket, Redis, and Socket.io. Supports room creation, message persistence, and multi-language UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white" alt="WebSocket" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/treating-calendar" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/treating-calendar">
           <img src="https://img.shields.io/badge/%F0%9F%93%85-treating--calendar-black?style=flat-square" alt="treating-calendar" />
-        </h3>
-        <p align="center">Smart weekly treating calendar with fair scheduling, Supabase auth, and email notifications. Designed for small teams to rotate responsibilities.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">Smart weekly treating calendar with fair scheduling, Supabase auth, and email notifications. Designed for small teams to rotate responsibilities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" alt="PostgreSQL" />
+      </p>
     </td>
   </tr>
-<tr>
+  <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/Taobao-like-Product-Category-Page" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/Taobao-like-Product-Category-Page">
           <img src="https://img.shields.io/badge/%F0%9F%9B%92-Taobao--like--Page-black?style=flat-square" alt="Taobao-like-Product-Category-Page" />
-        </h3>
-        <p align="center">A product category page application developed using ReactJS and Express.js. This project delivers an interactive product browsing interface.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">A product category page application developed using ReactJS and Express.js. This project delivers an interactive product browsing interface.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Skymore/CPP-Based-Asynchronous-Processing-Framework" style="text-decoration:none;">
-        <h3 align="center">
+      <h3 align="center">
+        <a href="https://github.com/Skymore/CPP-Based-Asynchronous-Processing-Framework">
           <img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-CPP_Framework-black?style=flat-square" alt="CPP Framework" />
-        </h3>
-        <p align="center">A C++ event-driven manager for concurrent task processing, finite state machines, HTTP communication and distributed message handling.</p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        </p>
-      </a>
+        </a>
+      </h3>
+      <p align="center">A C++ event-driven manager for concurrent task processing, finite state machines, HTTP communication and distributed message handling.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      </p>
     </td>
   </tr>
 </table>
