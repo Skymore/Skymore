@@ -187,10 +187,10 @@
 
 <div align="center">
   <a href="https://github.com/Skymore">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skymore&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
+    <img height="180em" src="https://github-readme-stats-steel-nine-44.vercel.app/api?username=Skymore&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" />
   </a>
   <a href="https://github.com/Skymore">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skymore&layout=compact&langs_count=8&theme=nord&hide_border=true&exclude_repo=Win25_LLM,Track2COCO" />
+    <img height="180em" src="https://github-readme-stats-steel-nine-44.vercel.app/api/top-langs/?username=Skymore&layout=compact&langs_count=8&theme=nord&hide_border=true&exclude_repo=Win25_LLM,Track2COCO" />
   </a>
 </div>
 
